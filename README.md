@@ -18,7 +18,10 @@
    >https://young-hollows-34367.herokuapp.com/
   * * *
    >## Usage
-   >Simply a place to track notes
+   >Simply a place to track notes  
+   ![Example of Program Running](https://github.com/gresendi/note-taker/blob/main/noteFront.PNG)
+   ![Example of Program Running](https://github.com/gresendi/note-taker/blob/main/noteList.PNG)
+
    * * *
    >## License
    >Unlicense   
